@@ -1,0 +1,71 @@
+.map_size {
+    width: 60%;
+}
+
+.map {
+    stroke: #8a8b8c;
+    stroke-miterlimit: 10;
+}
+.map1 {
+    fill: #000;
+}
+.map2 {
+    font-family: "Roboto-Regular";
+}
+.map3 {
+    font-size: 17.2255px;
+}
+.map:hover {
+    fill: #ffffff;
+    cursor: pointer;
+    transition: all 1.5s;
+    transform: translate(130px, -130px) scale(1.1);
+}
+.mapDhaka {
+    fill: #6b6b6b;
+}
+.mapRangpur {
+    fill: #803789;
+}
+.mapRangpur:hover {
+    fill: #ffffff;
+    transform: translate(137px, -120px) scale(1.1);
+}
+.mapRajshahi {
+    fill: #0b72b5;
+}
+.mapRajshahi:hover {
+    fill: #ffffff;
+    transform: translate(138px, -133px) scale(1.1);
+}
+.mapChittagong {
+    fill: #42a62a;
+}
+.mapChittagong:hover {
+    fill: #ffffff;
+    transform: translate(120px, -142px) scale(1.1);
+}
+.mapMymensingh {
+    fill: #f37021;
+}
+.mapBarishal {
+    fill: #00378a;
+}
+.mapBarishal:hover {
+    fill: #ffffff;
+    transform: translate(130px, -142px) scale(1.1);
+}
+.mapSylhet {
+    fill: #e3001b;
+}
+.mapSylhet:hover {
+    fill: #ffffff;
+    transform: translate(121px, -123px) scale(1.1);
+}
+.mapKhulna {
+    fill: #e41371;
+}
+.mapKhulna:hover {
+    fill: #ffffff;
+    transform: translate(138px, -133px) scale(1.1);
+}
